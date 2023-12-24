@@ -1,4 +1,4 @@
-## v3
+## v2
 
 Implemented the following Mastodon API methods:
 - POST /api/v1/statuses HTTP/1.1
