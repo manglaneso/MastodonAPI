@@ -26,3 +26,7 @@ let getMedia = masto.getMedia(uploadMediaInit.id);
 // Publish an status post with the uploaded media attached
 let response = masto.publishStatus(null, uploadMediaInit.id)
 ```
+
+### Example of use
+
+You can find an example of use in the [following repo](https://github.com/manglaneso/oraleputosbot/blob/main/src/MastodonTriggerService.js).
